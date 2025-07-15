@@ -2,6 +2,10 @@
 
 Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolvimento Front-End** e **Desenvolvimento Back-End**.
 
+### 🤝 Vamos conversar?
+📫 **Aberto para freelas, novos projetos e networking!**  
+🔗 Entre em contato pelo **[LinkedIn](https://www.linkedin.com/in/bruno-quiodetto-herculano-0a4b69217/)** ou acesse meu portfólio em **[BgDev.fun](https://bgdev.fun)**.
+
 ---
 
 ## 🛠️ Ferramentas e Tecnologias
@@ -36,19 +40,11 @@ Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolv
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
-</td>
-<td>
+<div align="left">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&rank_icon=github" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" />
-</td>
-</tr>
-</table>
 
----
+</div>
 
-### 🤝 Vamos conversar?
-📫 **Aberto para freelas, novos projetos e networking!**  
-✅ Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/bruno-quiodetto-herculano-0a4b69217/) ou acesse meu portfólio em [BgDev.fun](https://bgdev.fun).
