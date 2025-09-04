@@ -1,6 +1,6 @@
 # Olá, me chamo Bruno Quiodetto
 
-Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolvimento Front-End** e **Desenvolvimento Back-End**.
+Atuo em desenvolvimento e consultoria com foco em **back-end**, **SaaS** e **executáveis**, além de front-end para visualização de dados. Experiência em ambientes de alta demanda (10k+ acessos/dia) e domínio do ERP TOTVS, tanto em integrações quanto no banco de dados. Priorizo **arquitetura escalável**, **refatoração contínua** e **manutenção sustentável**, alinhando regras de negócio ao código e **reduzindo legados**. Meu objetivo é gerar valor real, modernizando processos e impulsionando a eficiência da sua empresa.
 
 ### 🤝 Vamos conversar?
 📫 **Aberto para freelas, novos projetos e networking!**  
@@ -42,10 +42,7 @@ Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolv
 ## 📊 GitHub Stats
 
 <div align="left">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=brunoquiodetto&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" />
-
+    <img width="50%" src="https://github-readme-stats-five-zeta-23.vercel.app/api?username=brunoquiodetto&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue&rank_icon=github" />
+    <img width="38%" src="https://github-readme-stats-five-zeta-23.vercel.app/api/top-langs/?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide_progress=false&layout=compact" />
 </div>
 
