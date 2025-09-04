@@ -43,7 +43,7 @@ Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolv
 
 <div align="left">
   
-<img src="https://github-readme-stats.vercel.app/api?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&show_icons=true&count_private=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=brunoquiodetto&show_icons=true&include_all_commits=true&count_private=true&theme=shadow_blue&rank_icon=github" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoquiodetto&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&hide_progress=true" />
 
