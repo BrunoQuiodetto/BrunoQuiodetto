@@ -13,6 +13,7 @@ Sou um Dev com skills em **Planejamento e Arquitetura de Sistemas**, **Desenvolv
 ### 💻 Back-end
 ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=flat&logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![PowerSheel](https://img.shields.io/badge/PowerShell-003B57?style=flat&logo=gnome-terminal&logoColor=white)
 
 ### 🎨 Front-end
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=white)
